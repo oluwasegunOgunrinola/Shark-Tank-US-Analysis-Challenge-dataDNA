@@ -19,3 +19,4 @@ The offered amount was less than the requested amount and the requested equity w
 Additionally, there is a positive correlation between the total number of pitches and the number of deals sealed, indicating that participation maximizes the probability of conversion.
 
 # Download pdf. and pbix. file for the detailed and comprehensive report
+
